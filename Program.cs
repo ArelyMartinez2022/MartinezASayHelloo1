@@ -12,18 +12,18 @@ while(playAgain){
         string name = Console.ReadLine();
         Console.WriteLine(" ");
 
-        isNumber = Int64.TryParse(userInput, out vaildNum);
-
-        if(isNumber == true) {
-            isConverted = false;
-            Console.WriteLine("You Entered A Number ");
+        if (Tools.Contains(name, "1234567890!@#$%")){
+            isConverted = true;
+            Console.WriteLine("Invaild Input, please try again ");
         } else {
             Console.WriteLine( " " );
-            Console.WriteLine("Invaild entry, please try again ");
+            Console.WriteLine("Vaild entry ");
+            Console.WriteLine( " " );
+            Console.WriteLine( "GOOD EVENING " + name );
         }
     }
 
-    Console.WriteLine( "GOOD EVENING " + name );
+    
     Console.WriteLine(" ");
     Console.WriteLine("Would you like to play again? Yes or No");
     string rePlay = Console.ReadLine();
