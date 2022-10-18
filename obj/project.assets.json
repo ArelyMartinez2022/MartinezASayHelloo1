@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arelymartinez/Desktop/redo/MartinezASayHelloo/MartinezASayHelloo.csproj",
+      "projectUniqueName": "/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/MartinezASayHelloo.csproj",
       "projectName": "MartinezASayHelloo",
-      "projectPath": "/Users/arelymartinez/Desktop/redo/MartinezASayHelloo/MartinezASayHelloo.csproj",
+      "projectPath": "/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/MartinezASayHelloo.csproj",
       "packagesPath": "/Users/arelymartinez/.nuget/packages/",
-      "outputPath": "/Users/arelymartinez/Desktop/redo/MartinezASayHelloo/obj/",
+      "outputPath": "/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/arelymartinez/.nuget/NuGet/NuGet.Config"

@@ -13,3 +13,18 @@
 /Users/arelymartinez/Desktop/redo/MartinezASayHelloo/obj/Debug/net6.0/MartinezASayHelloo.pdb
 /Users/arelymartinez/Desktop/redo/MartinezASayHelloo/obj/Debug/net6.0/MartinezASayHelloo.genruntimeconfig.cache
 /Users/arelymartinez/Desktop/redo/MartinezASayHelloo/obj/Debug/net6.0/ref/MartinezASayHelloo.dll
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/bin/Debug/net6.0/MartinezASayHelloo
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/bin/Debug/net6.0/MartinezASayHelloo.deps.json
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/bin/Debug/net6.0/MartinezASayHelloo.runtimeconfig.json
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/bin/Debug/net6.0/MartinezASayHelloo.dll
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/bin/Debug/net6.0/MartinezASayHelloo.pdb
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/MartinezASayHelloo.csproj.AssemblyReference.cache
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/MartinezASayHelloo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/MartinezASayHelloo.AssemblyInfoInputs.cache
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/MartinezASayHelloo.AssemblyInfo.cs
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/MartinezASayHelloo.csproj.CoreCompileInputs.cache
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/MartinezASayHelloo.dll
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/refint/MartinezASayHelloo.dll
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/MartinezASayHelloo.pdb
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/MartinezASayHelloo.genruntimeconfig.cache
+/Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/ref/MartinezASayHelloo.dll
