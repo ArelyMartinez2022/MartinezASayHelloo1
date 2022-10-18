@@ -4,11 +4,24 @@ Console.Clear();
 bool playAgain = true;
 while(playAgain){
 
-    Console.WriteLine("WHAT UR NAME? ");
+    bool isConverted = true;
+    bool isNumber; 
+    
+    while (isConverted){
+        Console.WriteLine("WHAT UR NAME? ");
+        string name = Console.ReadLine();
+        Console.WriteLine(" ");
 
-    string name = Console.ReadLine();
+        isNumber = Int64.TryParse(userInput, out vaildNum);
 
-    Console.WriteLine(" ");
+        if(isNumber == true) {
+            isConverted = false;
+            Console.WriteLine("You Entered A Number ");
+        } else {
+            Console.WriteLine( " " );
+            Console.WriteLine("Invaild entry, please try again ");
+        }
+    }
 
     Console.WriteLine( "GOOD EVENING " + name );
     Console.WriteLine(" ");
