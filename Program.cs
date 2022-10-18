@@ -7,19 +7,19 @@ while(playAgain){
     bool isConverted = true;
     bool isNumber; 
     
-    while (isConverted){
+    while (isConverted == true){
         Console.WriteLine("WHAT UR NAME? ");
         string name = Console.ReadLine();
         Console.WriteLine(" ");
 
-        if (Tools.Contains(name, "1234567890!@#$%")){
-            isConverted = true;
+        if (string.IsNullOrEmpty(name)){
+            isConverted = false;
             Console.WriteLine("Invaild Input, please try again ");
-        } else {
-            Console.WriteLine( " " );
+        } else  {
             Console.WriteLine("Vaild entry ");
             Console.WriteLine( " " );
             Console.WriteLine( "GOOD EVENING " + name );
+            break;
         }
     }
 
