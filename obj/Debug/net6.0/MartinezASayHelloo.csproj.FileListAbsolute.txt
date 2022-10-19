@@ -28,3 +28,18 @@
 /Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/MartinezASayHelloo.pdb
 /Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/MartinezASayHelloo.genruntimeconfig.cache
 /Users/arelymartinez/Desktop/redo/ MartinezASayHello1/obj/Debug/net6.0/ref/MartinezASayHelloo.dll
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/bin/Debug/net6.0/MartinezASayHelloo
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/bin/Debug/net6.0/MartinezASayHelloo.deps.json
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/bin/Debug/net6.0/MartinezASayHelloo.runtimeconfig.json
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/bin/Debug/net6.0/MartinezASayHelloo.dll
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/bin/Debug/net6.0/MartinezASayHelloo.pdb
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/obj/Debug/net6.0/MartinezASayHelloo.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/obj/Debug/net6.0/MartinezASayHelloo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/obj/Debug/net6.0/MartinezASayHelloo.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/obj/Debug/net6.0/MartinezASayHelloo.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/obj/Debug/net6.0/MartinezASayHelloo.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/obj/Debug/net6.0/MartinezASayHelloo.dll
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/obj/Debug/net6.0/refint/MartinezASayHelloo.dll
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/obj/Debug/net6.0/MartinezASayHelloo.pdb
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/obj/Debug/net6.0/MartinezASayHelloo.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/GitRepository/MartinezASayHelloo1/obj/Debug/net6.0/ref/MartinezASayHelloo.dll
