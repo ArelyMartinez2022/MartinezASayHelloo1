@@ -1,6 +1,10 @@
 ﻿/* See https://aka.ms/new-console-template for more information
 Arely Martinez 
+
 October 18, 2022 11:25 AM
+
+Say Hello #1
+
 This program will ask the user for thier name 
 then display "Good evening" then their name onto
 the termial. After the user will be asked if they 
